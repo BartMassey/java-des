@@ -752,7 +752,7 @@ public class DESAlgorithm {
 //    OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY A THIRD PARTY. WHERE
 //    LEGALLY LIABILITY CANNOT BE EXCLUDED, BUT IT MAY BE LIMITED, RAINBOW
 //    DIAMOND'S LIABILITY AND THAT OF ITS SUPPLIERS SHALL BE LIMITED TO THE SUM
-//    OF TWENTY FIVE POUNDS (£25) IN TOTAL.
+//    OF TWENTY FIVE POUNDS (ï¿¡25) IN TOTAL.
 //
 //    The contractual rights which you enjoy by virtue of Section 12, 13, 14, and
 //    15 of the Sale of Goods Act, 1893 (as amended) are in no way prejudiced
