@@ -1,3 +1,11 @@
+/*
+ * Copyright © 1996-2009 Bart Massey
+ * ALL RIGHTS RESERVED
+ * [This program is licensed under the "MIT License"]
+ * Please see the file COPYING in the source
+ * distribution of this software for license terms.
+ */
+
 // Copyright notice at end -- please read for copyright information
 
 package DES;
